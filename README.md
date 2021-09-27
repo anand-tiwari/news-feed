@@ -8,7 +8,7 @@ Use the package.json file for stating local server
 
 for installing dependency 
 ```bash
-npm -i
+npm i
 ```
 
 for starting dev server connecting to different server 
